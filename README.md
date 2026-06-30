@@ -31,4 +31,4 @@ To conduct a comprehensive vendor performance analysis identifying key patterns 
 •  Low-performing vendors maintain notably higher profit margins (40–43%) than top performers (30–32%), suggesting pricing/volume trade-off opportunities.
 
 ## 6.	Screenshots
-https://github.com/abhisheklate20-ops/Vendor_Performance_Analysis/blob/main/Dashboard%20for%20Project-1.png
+![Dashboard Preview].(https://github.com/abhisheklate20-ops/Vendor_Performance_Analysis/blob/main/Dashboard%20for%20Project-1.png)
