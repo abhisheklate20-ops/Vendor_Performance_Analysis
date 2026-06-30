@@ -30,5 +30,5 @@ To conduct a comprehensive vendor performance analysis identifying key patterns 
 •  Bulk purchasing reduces unit cost by ~72%, highlighting an opportunity to negotiate better terms.
 •  Low-performing vendors maintain notably higher profit margins (40–43%) than top performers (30–32%), suggesting pricing/volume trade-off opportunities.
 
-## 6.	Screenshots
-![Dashboard Preview].(https://github.com/abhisheklate20-ops/Vendor_Performance_Analysis/blob/main/Dashboard%20for%20Project-1.png)
+## 6. Screenshots
+![Dashboard Preview](https://github.com/abhisheklate20-ops/Vendor_Performance_Analysis/blob/main/Dashboard%20for%20Project-1.png?raw=true)
